@@ -12,6 +12,6 @@ Entrena diferentes modelos con diferentes hiperparámetros. La muestra de prueba
 Prueba los datos usando la muestra de prueba y proporciona una conclusión.
 
 # Descripción de datos #
-Los datos se almacenan en el archivo /datasets/taxi.csv.  Descarga el conjunto de datos
+Los datos se almacenan en el archivo /datasets/taxi.csv.  
 
 El número de pedidos está en la columna num_orders.
